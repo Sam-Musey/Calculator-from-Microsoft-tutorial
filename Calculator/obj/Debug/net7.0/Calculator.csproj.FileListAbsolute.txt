@@ -1,0 +1,15 @@
+/Users/msv/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/msv/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/msv/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/msv/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/msv/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/msv/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/msv/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/msv/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/msv/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/msv/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/msv/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/msv/Projects/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/msv/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/msv/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/msv/Projects/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
